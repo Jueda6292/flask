@@ -3,8 +3,6 @@
 * Write a Flask application that can respond to HTTP requests
 * Use routes and route parameters to enable compelex requests
 
-**Make a Copy from the Template**/**Clone**/**Commit**/**Push**/**Submit** :grin:
-
 ---
 
 # Make an API!
